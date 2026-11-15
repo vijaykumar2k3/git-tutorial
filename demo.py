@@ -1,3 +1,6 @@
 a="hello"
 b="world"
-print(a+""+b)
+c=a+""+b
+print(c)
+name=input("enter your name: ")
+print(c,name)
