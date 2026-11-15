@@ -7,3 +7,5 @@ print(c,name)
 age=input("enter your age: ")
 print(c,name,"your age is ",age)
 ajay_1="fhfhfhf"
+
+vijay="hello vijay"
