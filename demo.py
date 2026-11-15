@@ -6,4 +6,4 @@ name=input("enter your name: ")
 print(c,name)
 age=input("enter your age: ")
 print(c,name,"your age is ",age)
-ajay="hello ajay"
+ajay_1="fhfhfhf"
